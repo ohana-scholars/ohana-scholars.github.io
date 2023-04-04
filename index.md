@@ -26,13 +26,19 @@
 Concept Art
 <div class="text-center p-4">
   <img width="200px" 
-       src="" 
+       src="../images/light-dark.gif" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="" 
+       src="../images/aplus.JPG" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="" 
+       src="../images/calender.JPG" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../images/profiles.JPG" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../images/chatsystem.JPG" 
        class="img-thumbnail" >
 </div>
 
