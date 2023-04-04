@@ -32,19 +32,19 @@ subtitle: What we plan to accomplish
 ## Concept Art
 <div class="text-center p-4">
   <img width="200px" 
-       src="../images/light-dark.gif" 
+       src="../assets/img/light-dark.gif" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../images/aplus.JPG" 
+       src="../assets/img/aplus.JPG" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../images/calender.JPG" 
+       src="../assets/img/calender.JPG" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../images/profiles.JPG" 
+       src="../assets/img/profiles.JPG" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../images/chatsystem.JPG" 
+       src="../assets/img/chatsystem.JPG" 
        class="img-thumbnail" >
 </div>
 
