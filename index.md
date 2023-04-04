@@ -7,19 +7,19 @@ subtitle: Ohana Home Page
 # Overview
 
 The problem: <br>
-ICS students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
+Students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
 
 The solution: <br>
-Study Buddy is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
+Ohana Scholars would allow UH students to create and join study groups around an academic topic.
 
 # Approach
-To use Study Buddy, a student must login and set up their profile. The profile enables each student to list courses they have taken and for which they are willing to attempt to provide help (sensei), and courses they are currently taking and for which they might need help (grasshopper). Thus, all students are sensei in some courses and grasshoppers in other courses. Each student must also provide a head shot so that they can be visually identified.
+In order to access features of Ohana Scholars, a student must login and set up their profile. Creating a profile will allow the student to add courses and subjects they may need help with or wish to help others. The student profiles will require their name and a headshot so that others may recognize them easily. Profiles may include other contact information so that students may contact them more privately.
 
 Another section of the site lists all of the ICS courses. Within each course, it is possible to see the grasshoppers and the senseis. A grasshopper can propose a study session around a topic currently being covered in their course (for example, “Write my essay on configuration management”, and a time to meet within ICSpace (i.e. 8:30-9:30pm tonight)). This proposal generates a notification to all of the grasshoppers and senseis, and they can respond by saying they intend to come at some point during the time period.
 
 There is an online calendar that shows all of the study sessions and who is attending.
 
-There are two styles of use for Study Buddy:
+There are two styles of use for Ohana Scholars:
 <ol>
     <li>
         You want to plan a group study session for later in the day or some subsequent day. In that case, you schedule the time period for sometime in the future.
@@ -54,10 +54,13 @@ Some possible mockup pages include:
     <li>User home page</li>
     <li>Admin home page</li>
     <li>User profile page</li>
-    <li>Calendar page</li>
-    <li>Create Study Sesh page</li>
-    <li>Study session page</li>
-    <li>Game mechanic page(s) (for example, a leaderboard?)</li>
+    <li>Create Sessions page</li>
+    <li>Create user page</li>
+    <li>Edit user page</li>
+    <li>View sessions page</li>
+    <li>Calendar Page</li>
+    <li>Rate student page</li>
+    <li>Chatroom page</li>
 </ul>
 
 # Use Case Ideas
@@ -65,11 +68,11 @@ Some possible mockup pages include:
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
 <ul>
-    <li>New user goes to landing page, logs in, gets home page, sets up profile. (How do they learn how system works?)</li>
-    <li>Admin goes to landing page, logs in, gets home page, edits site.</li>
-    <li>User goes to landing page, logs in, requests study sesh.</li>
-    <li>User is notified of study sesh, responds. (Can they respond via text message?)</li>
-    <li>User checks their status with respect to game mechanics.</li>   
+    <li>New user goes to landing page, creates new profile, gets home page, may edit profile</li>
+    <li>Admin goes to landing page, logs in, gets home page, edits sites/courses.</li>
+    <li>User goes to landing page, logs in, checks existing study sessions, requests new session if not applicable</li>
+    <li>User is notified of new sessions, joins or ignores.</li>
+    <li>User checks their reputation based on ratings</li>
 </ul>
 
 # Beyond the Basics
