@@ -2,13 +2,13 @@
 
 [Team Contract](https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit)
 
-# Goals
+## Goals
 - Creating a user-friendly website
 - Create a system that rewards the user
 - Make it look aesthetically appealing
 - Everyone gets an A - "Study with a rainbow in mind, and you'll find an A at the end."
 
-# Features
+## Features
 - Add a live chat
 - Calendar System w/ Scheduling and Reminders
 - Matchmaker
@@ -23,7 +23,7 @@
 - Dark Mode (Default)
 
 
-Concept Art
+## Concept Art
 <div class="text-center p-4">
   <img width="200px" 
        src="../images/light-dark.gif" 
