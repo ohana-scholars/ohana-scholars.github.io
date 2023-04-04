@@ -20,7 +20,7 @@ subtitle: Guidelines to follow
 Contribution Criteria. What criteria will you use to decide if a member has contributed effectively? Examples can include: level of professionalism, leadership, timeliness of attending meetings and submitted work, and willingness to collaborate.
 Amount of work completed
  - How much documentation was recorded
- - Communication with other team members
+ - Communication with other team members <br>
 Behavioral Criteria. What criteria will you use to decide if a member has behaved appropriately? Examples include providing feedback without criticizing, being on time and prepared, honoring the terms of this contract, and listening to each other.
  - Doesn’t sabotage (project or morale)
  - Communication w/ Team
