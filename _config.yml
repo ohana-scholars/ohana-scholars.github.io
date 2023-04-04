@@ -21,10 +21,9 @@ author: Some Person
 
 navbar-links:
   Team Goals: "teamgoals"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Milestones:
+    - Milestone 1: "https://github.com/orgs/ohana-scholars/projects/1"
+  Team Contract: "contract"
 
 ################
 # --- Logo --- #
