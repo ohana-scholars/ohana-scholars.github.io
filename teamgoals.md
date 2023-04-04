@@ -1,3 +1,9 @@
+---
+layout: page
+title: Team Goals
+subtitle: What we plan to accomplish
+---
+
 # "Study with a rainbow in mind, and you'll find an A at the end."
 
 [Team Contract](https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit)
@@ -15,9 +21,9 @@
 - Custom Profiles
 - Blocking System
 - Reputation System
-  - Something like League of Legends’ honor system
-  - Honor level increases the more a person is honored
-  - Honor level shows on profile
+    - Something like League of Legends’ honor system
+    - Honor level increases the more a person is honored
+    - Honor level shows on profile
 - Integrated Email System
 - Live Popups
 - Dark Mode (Default)
@@ -41,5 +47,6 @@
        src="../images/chatsystem.JPG" 
        class="img-thumbnail" >
 </div>
+
 
 
