@@ -25,26 +25,26 @@ There are two styles of use for Ohana Scholars:
         You want to plan a group study session for later in the day or some subsequent day. In that case, you schedule the time period for sometime in the future.
     </li>
     <li>
-        You are having a problem right now. In that case, you can go into Study Buddy and schedule the session for “Right Now!”. This indicates you are right now in ICSpace and need help. All the other sensei and grasshoppers for that course will be notified, and hopefully a group will spontaneously form in a few minutes.
+        You are having a problem right now. In that case, you can go into Ohana Scholars and schedule the session for “Right Now!”. This indicates you are right now in ICSpace and need help. All the other sensei and grasshoppers for that course will be notified, and hopefully a group will spontaneously form in a few minutes.
     </li>
 </ol>
-Study Buddy seems great in theory, but there is a significant barrier to adoption: students are naturally inhibited about asking for or offering help. This might be overcome through the use of well designed game mechanics.
+Ohana Scholars seems great in theory, but there is a significant barrier to adoption: students are naturally inhibited about asking for or offering help. This might be overcome through the use of well designed game mechanics.
 
-Part of the design of Study Buddy should be some kind of point system, or “levels”, or some other game mechanic to reward students for participating.
+Part of the design of Ohana Scholars should be some kind of point system, or “levels”, or some other game mechanic to reward students for participating.
 
 In addition, you can solicit gift cards or other kinds of rewards from the ICS Department or UH Manoa to reward the “best” sensei and grasshoppers in a given week, month, or semester. The challenge is to design the point system so that students cannot “game” the system to obtain points without actually helping others. You also want to prevent a “hui” of students from simply pretending to work together to get the most points and then split the prize without actually helping each other.
 
 There must also be admins who monitor the site and who users can contact if they suspect inappropriate behavior.
 
-Important design goals for Study Buddy are:
+Important design goals for Ohana Scholars are:
 <ul>
     <li>To encourage use of ICSpace among ICS students</li>
     <li>To minimize risk of inappropriate encounters by requiring all meetings to occur in ICSpace.</li>
     <li>To encourage face-to-face interaction among ICS students.</li>
 </ul>
-There are other mechanisms (Slack, Piazza) for asynchronous, online help and support. Study Buddy is designed to facilitate live, real-world help using ICSpace.
+There are other mechanisms (Slack, Piazza) for asynchronous, online help and support. Ohana Scholars is designed to facilitate live, real-world help using ICSpace.
 
-Note: if you choose this idea for your final project, you cannot name it “Study Buddy”. Come up with a different name for your final project.
+Note: if you choose this idea for your final project, you cannot name it “Ohana Scholars”. Come up with a different name for your final project.
 
 # Mockup Page Ideas
 
@@ -82,6 +82,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <ul>
     <li>Text message interface. See notifications, and reply to confirm attendance all through text message.</li>
     <li>Slack integration to facilitate notification and organization of meetings.</li>
-    <li>A Slack Bot to suggest and help implement Study Buddy meetings.</li>
+    <li>A Slack Bot to suggest and help implement Ohana Scholars meetings.</li>
     <li>A rating system for meetings and sensei participation.</li>
 </ul>
