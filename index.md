@@ -34,7 +34,7 @@ Part of the design of Ohana Scholars should be some kind of point system, or “
 
 In addition, Ohana Scholars has a reputation system. This is to rate students based on how helpful and respectful they were.
 
-There must also be admins who monitor the site and who users can contact if they suspect inappropriate behavior.
+There must also be admins who monitor the site and who users can contact if they suspect inappropriate behavior. The admins would also be able to add subjects by request of users if the subject's category does not already exist.
 
 Important design goals for Ohana Scholars are:
 <ul>
@@ -57,6 +57,7 @@ Some possible mockup pages include:
     <li>Create user page</li>
     <li>Edit user page</li>
     <li>View sessions page</li>
+    <li>View subjects page</li>
     <li>Calendar Page</li>
     <li>Rate student page</li>
     <li>Chatroom page</li>
