@@ -5,7 +5,7 @@ subtitle: Guidelines to follow
 ---
 
 <h1 style="text-align: center;">"Study with a rainbow in mind, and you'll find an A at the end."</h1>
-<a href="https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit" >Team Contract</a>
+<a href="https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit" style="text-align: center">Team Contract</a>
 
 ## Team Members & Contact Info
 - *Mark Burgess* - mhburg@hawaii.edu - .crepes#0086
