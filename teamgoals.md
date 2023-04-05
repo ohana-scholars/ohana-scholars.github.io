@@ -4,7 +4,7 @@ title: Team Goals
 subtitle: What we plan to accomplish
 ---
 <h1 style="text-align: center;">"Study with a rainbow in mind, and you'll find an A at the end."</h1>
-<center> [Team Contract](https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit)</center>
+<a href="https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit" style="text-align: center">Team Contract</a>
 
 ## Goals
 - Creating a user-friendly website

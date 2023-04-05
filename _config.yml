@@ -24,6 +24,7 @@ navbar-links:
   Milestones:
     - Milestone 1: "https://github.com/orgs/ohana-scholars/projects/1"
   Team Contract: "contract"
+  Team Members: "team"
 
 ################
 # --- Logo --- #
@@ -138,7 +139,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/manoarainbow.jpg"
+#navbar-img: "/assets/img/manoarainbow.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
