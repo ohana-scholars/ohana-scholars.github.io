@@ -3,16 +3,14 @@ layout: page
 title: Team Goals
 subtitle: What we plan to accomplish
 ---
-
-# "Study with a rainbow in mind, and you'll find an A at the end."
-
-[Team Contract](https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit)
+<h1 style="text-align: center;">"Study with a rainbow in mind, and you'll find an A at the end."</h1>
+<center> [Team Contract](https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit)</center>
 
 ## Goals
 - Creating a user-friendly website
 - Create a system that rewards the user
 - Make it look aesthetically appealing
-- Everyone gets an A - "Study with a rainbow in mind, and you'll find an A at the end."
+- Everyone gets an A
 
 ## Features
 - Add a live chat

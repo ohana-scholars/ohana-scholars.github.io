@@ -4,7 +4,7 @@ title: Team Contract
 subtitle: Guidelines to follow
 ---
 
-# "Study with a rainbow in mind, and you'll find an A at the end."
+<h1 style="text-align: center;">"Study with a rainbow in mind, and you'll find an A at the end."</h1>
 
 [Team Contract](https://docs.google.com/document/d/1oX4d5HIBrm2Wsi5FQ2IpwNagkXJaMhHEUpm8CkWCZwE/edit)
 
