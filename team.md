@@ -4,7 +4,7 @@ title: Team Members
 subtitle: Meet the team!
 ---
 
-<div class="row" style="alignment: center">
+<div class="row" style="display: inline-flex">
   <div class="column" style="alignment: center">
     <img width="400px" 
        style="alignment: center"
@@ -41,5 +41,4 @@ subtitle: Meet the team!
        class="img-thumbnail" >
     <a href="https://tungxn.github.io/"><h3 style="text-align: center">Tung Nguyen</h3></a>
   </div>
-
 </div>
