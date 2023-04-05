@@ -4,7 +4,7 @@ title: Team Members
 subtitle: Meet the team!
 ---
 
-<div class="row" style="display: inline-flex">
+<div class="row" style="display: inline">
   <div class="column" style="display: inline">
     <img width="400px" 
        style="alignment: center"
