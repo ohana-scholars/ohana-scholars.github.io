@@ -22,10 +22,10 @@ There is an online calendar that shows all of the study sessions and who is atte
 There are two styles of use for Ohana Scholars:
 <ol>
     <li>
-        You want to plan a group study session for later in the day or some subsequent day. In that case, you schedule the time period for sometime in the future.
+        You want to plan a session for some time in the future. In this case, you schedule the time period and others can view it and plan accordingly should they be interested.
     </li>
     <li>
-        You are having a problem right now. In that case, you can go into Ohana Scholars and schedule the session for “Right Now!”. This indicates you are right now in a session and need help. All the other students for that subject will be notified, and hopefully a group will spontaneously form in a few minutes.
+        Sometimes you might realize you need help as soon as possible. In this case, you can attempt to schedule a session ASAP. This sends out an notification to all the other students in that subject that a session has been requested, and hopefully a group will spontaneously form.
     </li>
 </ol>
 Ohana Scholars seems great in theory, but there is a significant barrier to adoption: students are naturally inhibited about asking for or offering help. This might be overcome through the use of well designed game mechanics.
