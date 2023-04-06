@@ -21,9 +21,9 @@ author: Alden Paroni, Audrey Soares, Christopher Pascual, Mark Burgess, Tung Ngu
 
 navbar-links:
   Team Goals: "teamgoals"
+  Team Contract: "contract"
   Milestones:
     - Milestone 1: "https://github.com/orgs/ohana-scholars/projects/1"
-  Team Contract: "contract"
   Team Members: "team"
 
 ################
