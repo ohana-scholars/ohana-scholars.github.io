@@ -10,12 +10,12 @@ The problem: <br>
 Students often end up working inefficiently on their own, when they could learn much more effectively if they were to work with other students and mentors. Students also tend to be shy in asking for or offering their help.
 
 The solution: <br>
-Ohana Scholars would allow UH students to create and join study groups around an academic topic. It will be a place for like-minded students who all either need help or are willing to offer help, so Students can feel more free to offer or request aid.
+Ohana Scholars would allow UH students to create and join study groups around an academic topic. It will be a place for like-minded students who all either need help or are willing to offer help, so students can feel more free to offer or request aid.
 
 # Approach
 In order to access features of Ohana Scholars, a student must login and set up their profile. Creating a profile will allow the student to add courses and subjects they may need help with or wish to help others. The student profiles will require their name and a headshot so that others may recognize them easily. Profiles may include other contact information so that students may contact them more privately.
 
-Another section of the site lists all of subjects. Within each of the subjects, it is possible to view other students in that category. Students can either create a new study session around a topic or join an already existing one. Creating a new session notifies all users, so that they may convey their intent to join sometime during that session.
+Another section of the site lists all of the subjects. Within each of the subjects, it is possible to view other students in that category. Students can either create a new study session around a topic or join an already existing one. Creating a new session notifies all users, so that they may convey their intent to join sometime during that session.
 
 There is an online calendar that shows all of the study sessions and who is attending.
 
@@ -28,9 +28,9 @@ There are two styles of use for Ohana Scholars:
         Sometimes you might realize you need help as soon as possible. In this case, you can attempt to schedule a session ASAP. This sends out an notification to all the other students in that subject that a quick session has been requested, and ideally people will be able to respond in time to join that session.
     </li>
 </ol>
-As stated previously, Students tend to be shy when asking or offering any kind of help. In case that being with like-minded students isn't enough to allow students to feel comfortable, a system is put into place to encourage students to participate in sessions.
+As stated previously, students tend to be shy when asking or offering any kind of help. In case being with like-minded students isn't enough to allow students to feel comfortable, a system is put into place to encourage students to participate in sessions.
 
-To address this, Ohana Scholars has a reputation system. This is way to rate students based on how helpful and respectful they were. The more positive ratings the student receives, the higher their reputation will rise.
+To address this, Ohana Scholars has a reputation system. This is a way to rate students based on how helpful and respectful they were. The more positive ratings the student receives, the higher their reputation will rise.
 
 Admins will also monitor the site, ensuring that there isn't any inappropriate behavior. Students will also be able to contact admins to report any such behavior. The admins would also be able to add subjects by request of users if the subject's category does not already exist.
 
