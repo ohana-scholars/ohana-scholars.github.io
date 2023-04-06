@@ -29,20 +29,29 @@ subtitle: What we plan to accomplish
 
 ## Concept Art
 <div class="text-center p-4">
-  <img width="200px" 
+  <img width="300px" 
        src="../assets/img/light-dark.gif" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="300px" 
        src="../assets/img/aplus.JPG" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="300px" 
        src="../assets/img/calender.JPG" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="300px" 
        src="../assets/img/profiles.JPG" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="300px" 
        src="../assets/img/chatsystem.JPG" 
+       class="img-thumbnail" >
+    <img width="300px" 
+       src="../assets/img/match.webp" 
+       class="img-thumbnail" >
+    <img width="300px" 
+       src="../assets/img/reputation.jpg" 
+       class="img-thumbnail" >
+    <img width="300px" 
+       src="../assets/img/reward.png" 
        class="img-thumbnail" >
 </div>
 
