@@ -7,15 +7,15 @@ subtitle: Ohana Home Page
 # Overview
 
 The problem: <br>
-Students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
+Students often end up working inefficiently on their own, when they could learn much more effectively if they were to work with other students and mentors. Students also tend to be shy in asking for or offering their help.
 
 The solution: <br>
-Ohana Scholars would allow UH students to create and join study groups around an academic topic.
+Ohana Scholars would allow UH students to create and join study groups around an academic topic. It will be a place for like-minded students who all either need help or are willing to offer help, so Students can feel more free to offer or request aid.
 
 # Approach
 In order to access features of Ohana Scholars, a student must login and set up their profile. Creating a profile will allow the student to add courses and subjects they may need help with or wish to help others. The student profiles will require their name and a headshot so that others may recognize them easily. Profiles may include other contact information so that students may contact them more privately.
 
-Another section of the site lists all of subjects. Within each course, it is possible to see the students. Students can propose a study session around a topic currently being covered in their course (for example, “Write my essay on configuration management”, and a time to meet within ICSpace (i.e. 8:30-9:30pm tonight)). This proposal generates a notification to all of the students, and they can respond by saying they intend to come at some point during the time period.
+Another section of the site lists all of subjects. Within each of the subjects, it is possible to view other students in that category. Students can either create a new study session around a topic or join an already existing one. Creating a new session notifies all users, so that they may convey their intent to join sometime during that session.
 
 There is an online calendar that shows all of the study sessions and who is attending.
 
@@ -25,25 +25,22 @@ There are two styles of use for Ohana Scholars:
         You want to plan a session for some time in the future. In this case, you schedule the time period and others can view it and plan accordingly should they be interested.
     </li>
     <li>
-        Sometimes you might realize you need help as soon as possible. In this case, you can attempt to schedule a session ASAP. This sends out an notification to all the other students in that subject that a session has been requested, and hopefully a group will spontaneously form.
+        Sometimes you might realize you need help as soon as possible. In this case, you can attempt to schedule a session ASAP. This sends out an notification to all the other students in that subject that a quick session has been requested, and ideally people will be able to respond in time to join that session.
     </li>
 </ol>
-Ohana Scholars seems great in theory, but there is a significant barrier to adoption: students are naturally inhibited about asking for or offering help. This might be overcome through the use of well designed game mechanics.
+As stated previously, Students tend to be shy when asking or offering any kind of help. In case that being with like-minded students isn't enough to allow students to feel comfortable, a system is put into place to encourage students to participate in sessions.
 
-Part of the design of Ohana Scholars should be some kind of point system, or “levels”, or some other game mechanic to reward students for participating.
+To address this, Ohana Scholars has a reputation system. This is way to rate students based on how helpful and respectful they were. The more positive ratings the student receives, the higher their reputation will rise.
 
-In addition, Ohana Scholars has a reputation system. This is to rate students based on how helpful and respectful they were.
-
-There must also be admins who monitor the site and who users can contact if they suspect inappropriate behavior. The admins would also be able to add subjects by request of users if the subject's category does not already exist.
+Admins will also monitor the site, ensuring that there isn't any inappropriate behavior. Students will also be able to contact admins to report any such behavior. The admins would also be able to add subjects by request of users if the subject's category does not already exist.
 
 Important design goals for Ohana Scholars are:
 <ul>
-    <li>To encourage use of sessions among students</li>
-    <li>To minimize risk of inappropriate encounters by requiring all meetings to occur in ICSpace.</li>
+    <li>To encourage students to help one another through study sessions</li>
     <li>To encourage face-to-face interaction among students.</li>
     <li>Everyone passes!</li>
-</ul>
-There are other mechanisms (Slack, Discord) for asynchronous, online help and support. Ohana Scholars is designed to facilitate live, real-world help using sessions.
+</ul> 
+Additional support and online help can be sought through other mechanisms such as Discord. Ohana Scholars is designed to offer aid to any student who needs it.
 
 # Mockup Page Ideas
 
@@ -68,13 +65,12 @@ Some possible mockup pages include:
 
 # Use Case Ideas
 <ul>
-    <li>New user goes to landing page, creates new profile, gets home page, may edit profile</li>
-    <li>Admin goes to landing page, logs in, gets home page, edits sites/courses.</li>
+    <li>New user goes to landing page, creates new profile, gets home page, may edit their profile</li>
+    <li>Admin goes to landing page, logs in, gets home page, edits sites or subjects.</li>
     <li>User goes to landing page, logs in, checks existing study sessions, requests new session if not applicable</li>
     <li>User is notified of new sessions, joins or ignores.</li>
     <li>User checks their reputation based on ratings</li>
     <li>User checks their emails and can reply or write new ones</li>
-    
 </ul>
 
 # Beyond the Basics
@@ -82,7 +78,7 @@ Some possible mockup pages include:
 After implementing the basic functionality, here are ideas for more advanced features:
 
 <ul>
-    <li>Text message interface. See notifications, and reply to confirm attendance all through text message.</li>
+    <li>Live chat and text interface. See instant notifications, and reply to confirm attendance all through messages.</li>
     <li>Discord integration to facilitate notification and organization of meetings.</li>
     <li>A Discord Bot to suggest and help implement Ohana Scholars meetings.</li>
     <li>A rating system for students participation.</li>
