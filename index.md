@@ -79,7 +79,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 <ul>
     <li>Live chat and text interface. See instant notifications, and reply to confirm attendance all through messages.</li>
-    <li>Discord integration to facilitate notification and organization of meetings.</li>
-    <li>A Discord Bot to suggest and help implement Ohana Scholars meetings.</li>
+    <li>Calender and live notifications for scheduled meetings and assignments due.</li>
+    <li>Email system for private messaging between students.</li>
     <li>A rating system for students participation.</li>
 </ul>
