@@ -25,7 +25,7 @@ There are two styles of use for Ohana Scholars:
         You want to plan a session for some time in the future. In this case, you schedule the time period and others can view it and plan accordingly should they be interested.
     </li>
     <li>
-        Sometimes you might realize you need help as soon as possible. In this case, you can attempt to schedule a session ASAP. This sends out an notification to all the other students in that subject that a quick session has been requested, and ideally people will be able to respond in time to join that session.
+        Sometimes you might realize you need help as soon as possible. In this case, you can attempt to schedule a session ASAP. This sends out a notification to all the other students in that subject that a quick session has been requested, and ideally people will be able to respond in time to join that session.
     </li>
 </ol>
 As stated previously, students tend to be shy when asking or offering any kind of help. In case being with like-minded students isn't enough to allow students to feel comfortable, a system is put into place to encourage students to participate in sessions.
