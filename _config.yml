@@ -24,7 +24,7 @@ navbar-links:
   Team Contract: "contract"
   Milestones:
     - Milestone 1: "https://github.com/orgs/ohana-scholars/projects/1"
-    - Milestone 2:
+    - Milestone 2: "https://github.com/orgs/ohana-scholars/projects/2/views/1?layout=table"
     - Milestone 3:
   Team Members: "team"
 
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://ohana-scholars.github.io/"
+url-pretty: "http://137.184.86.165"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
