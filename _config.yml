@@ -20,13 +20,15 @@ author: Alden Paroni, Audrey Soares, Christopher Pascual, Mark Burgess, Tung Ngu
 ###############################################
 
 navbar-links:
-  Team Goals: "teamgoals"
-  Team Contract: "contract"
+  Team Documents:
+    - Team Members: "team"
+    - Team Goals: "teamgoals"
+    - Team Contract: "contract"
   Milestones:
     - Milestone 1: "https://github.com/orgs/ohana-scholars/projects/1"
     - Milestone 2: "https://github.com/orgs/ohana-scholars/projects/2/views/1?layout=table"
     - Milestone 3:
-  Team Members: "team"
+  Application: "http://137.184.86.165"
 
 ################
 # --- Logo --- #
@@ -95,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url: "http://137.184.86.165"
+url-pretty: "https://ohana-scholars.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
