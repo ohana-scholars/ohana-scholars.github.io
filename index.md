@@ -73,6 +73,12 @@ Some possible mockup pages include:
     <li>Create Sessions page</li>
     <img src="/assets/img/addSessionsPage.png" />
     <p>This page will allow users to create a new session.</p>
+    <li>Create profile page</li>
+    <img src="/assets/img/makeProfile.png" />
+    <p>This page will allow users to create a new profile.</p>
+    <li>View profile page</li>
+    <img src="/assets/img/profile.png" />
+    <p>This page will allow users to view their profile.</p>
     <li>User profile page</li>
     <li>Create user page</li>
     <li>Edit user page</li>
