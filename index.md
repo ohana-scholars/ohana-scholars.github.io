@@ -48,10 +48,10 @@ Some possible mockup pages include:
 <ul>
     <li>Landing page</li>
     <img src="../assets/img/landingPage.png" />
-    <li>User home page</li>x
-    <img src="../assets/img/userSignInPage.png" />
+    <li>User home page</li>
+    <img src="../assets/img/userSignedInPage.png" />
     <li>Admin home page</li>
-    <img src="../assets/img/adminSignInPage.png" />
+    <img src="../assets/img/adminSignedInPage.png" />
     <li>View courses page</li>
     <img src="../assets/img/listCoursePage.png" />
     <li>View courses page admin</li>
