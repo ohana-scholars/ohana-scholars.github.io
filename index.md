@@ -47,14 +47,24 @@ Additional support and online help can be sought through other mechanisms such a
 Some possible mockup pages include:
 <ul>
     <li>Landing page</li>
-    <li>User home page</li>
+    <img src="../assets/img/landingPage.png" />
+    <li>User home page</li>x
+    <img src="../assets/img/userSignInPage.png" />
     <li>Admin home page</li>
+    <img src="../assets/img/adminSignInPage.png" />
+    <li>View courses page</li>
+    <img src="../assets/img/listCoursePage.png" />
+    <li>View courses page admin</li>
+    <img src="../assets/img/listCourseAdminPage.png" />
+    <li>Add courses page</li>
+    <img src="../assets/img/addCoursePage.png" />
+    <li>Edit courses page</li>
+    <img src="/assets/img/editCoursePage.png" />
     <li>User profile page</li>
     <li>Create Sessions page</li>
     <li>Create user page</li>
     <li>Edit user page</li>
     <li>View sessions page</li>
-    <li>View subjects page</li>
     <li>Calendar Page</li>
     <li>Rate student page</li>
     <li>Chatroom page</li>
