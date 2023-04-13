@@ -48,18 +48,25 @@ Some possible mockup pages include:
 <ul>
     <li>Landing page</li>
     <img src="../assets/img/landingPage.png" />
+    <p>The basic page that everyone will see when they first load the page. From here the user will be able to sign into their account.</p>
     <li>User home page</li>
     <img src="../assets/img/userSignedInPage.png" />
+    <p>The home page for users. Users will now be able to view the nav links to access the rest of the site.</p>
     <li>Admin home page</li>
     <img src="../assets/img/adminSignedInPage.png" />
+    <p>The home page for admins. Admins will be able to view seperate pages that will allow them to edit and customize the site.</p>
     <li>View courses page</li>
     <img src="../assets/img/listCoursePage.png" />
+    <p>This page will allow users to view a list of all courses available on the site. Future versions will allow the user to view the sessions for each course or filter the courses by subject and title.</p>
     <li>View courses page admin</li>
     <img src="../assets/img/listCourseAdminPage.png" />
+    <p>This page shares all of the same features as the ones that users will see, but it also includes a link to the edit courses page. It is only accessible by admins.</p>
     <li>Add courses page</li>
     <img src="../assets/img/addCoursePage.png" />
+    <p>This page is only accessible by admins. It will allow the admin to add new courses to the site.</p>
     <li>Edit courses page</li>
     <img src="/assets/img/editCoursePage.png" />
+    <p>This page is only accessible by admins. It will allow the admins to edit the information of currently existing courses.</p>
     <li>User profile page</li>
     <li>Create Sessions page</li>
     <li>Create user page</li>
