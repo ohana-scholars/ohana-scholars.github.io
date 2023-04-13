@@ -67,11 +67,15 @@ Some possible mockup pages include:
     <li>Edit courses page</li>
     <img src="/assets/img/editCoursePage.png" />
     <p>This page is only accessible by admins. It will allow the admins to edit the information of currently existing courses.</p>
-    <li>User profile page</li>
+    <li>View sessions page</li>
+    <img src="/assets/img/listSessionsPage.png" />
+    <p>This page will allow the users to view a list of all sessions available.</p>
     <li>Create Sessions page</li>
+    <img src="/assets/img/addSessionsPage.png" />
+    <p>This page will allow users to create a new session.</p>
+    <li>User profile page</li>
     <li>Create user page</li>
     <li>Edit user page</li>
-    <li>View sessions page</li>
     <li>Calendar Page</li>
     <li>Rate student page</li>
     <li>Chatroom page</li>
