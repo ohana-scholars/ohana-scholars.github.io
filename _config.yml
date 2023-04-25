@@ -20,6 +20,8 @@ author: Alden Paroni, Audrey Soares, Christopher Pascual, Mark Burgess, Tung Ngu
 ###############################################
 
 navbar-links:
+  User Guide: "userguide"
+  Developer Guide: "developerguide"
   Team Documents:
     - Team Members: "team"
     - Team Goals: "teamgoals"
@@ -27,7 +29,7 @@ navbar-links:
   Milestones:
     - Milestone 1: "https://github.com/orgs/ohana-scholars/projects/1"
     - Milestone 2: "https://github.com/orgs/ohana-scholars/projects/2/views/1?layout=table"
-    - Milestone 3:
+    - Milestone 3: "https://github.com/orgs/ohana-scholars/projects/12"
   Application: "https://ohanascholars.org/"
   Organization: "https://github.com/ohana-scholars"
 
