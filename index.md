@@ -110,3 +110,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
     <li>Email system for private messaging between students.</li>
     <li>A rating system for students participation.</li>
 </ul>
+
+![ci-badge](https://github.com/ohana-scholars/ohana-scholars-application/workflows/ci-ohana-scholars-application/badge.svg)
