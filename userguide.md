@@ -11,7 +11,7 @@ The following will walkthrough through how to use the Ohana Scholars website.
 ### Landing Page
 ![](assets/img/guidepics/landing.png)
 
-When you first visit https://ohanascholars.org/, you'll be greeted to the landing page. From there, you can create a new account to access sessions, courses, and profiles!
+When you first visit [https://ohanascholars.org/](https://ohanascholars.org/), you'll be greeted to the landing page. From there, you can create a new account to access sessions, courses, and profiles!
 
 ### Sign Up
 ![](assets/img/guidepics/signup.png)
