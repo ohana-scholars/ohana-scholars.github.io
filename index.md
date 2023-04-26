@@ -111,4 +111,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
     <li>A rating system for students participation.</li>
 </ul>
 
-![ci-badge](https://github.com/ohana-scholars/ohana-scholars-application/workflows/ci-ohana-scholars-application/badge.svg)
+# Continuous Integration 
+
+[![ci-meteor-application-template-react](https://github.com/ohana-scholars/ohana-scholars-application/actions/workflows/ci.yml/badge.svg)](https://github.com/ohana-scholars/ohana-scholars-application/actions/workflows/ci.yml)
+
+Ohana Scholars implements continuous integreation through Github Actions. All commits and merges into the main branch causes ESLint to check for any errors, and runs our acceptance tests. To see our current runs from all workflows, click the badge above. 
