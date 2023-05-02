@@ -9,3 +9,7 @@ _The website has a clean and organized layout, which is easy to navigate. The we
 
 ### Albert
 _It was easy to use and was well organized. I liked it._
+
+### Danielson
+
+_3/5 - Good website, love the layout and the fluidity of the webpage. Everything is easy to understand and accessible. Creating a new session is very simple, although it is very confusing when the textbox shows a checkmark but gives you an error. Many of the textboxes don’t have limits on them, so be careful when you set them up. Images are nonexistent, can only type in the image instead of uploading the file which makes no sense. Finding sessions is easy when you filter by classes, but can be confused since it isn’t sorted by time and date. You can infinitely join any session without limit, making the webpage very long and hard to scroll. I would recommend showing the number of users joined or the first few names that joined. The Courses list is very nice, although I would like to have filtered sessions for the class when I click the “View” sessions button instead of taking me back to the general sessions page. I also don’t like that when you rate a profile, it shows that the rating is valid (like -1 or a decimal) but gives an error. Very counterintuitive. Overall, good idea but a lot of work needs to be done._
