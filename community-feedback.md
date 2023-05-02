@@ -17,3 +17,7 @@ _3/5 - Good website, love the layout and the fluidity of the webpage. Everything
 ### Anh
 
 _The overall aesthetic, design, and functionality of this website is very pleasant and straightforward to use. All the icons are laid out neatly and clearly so that the user can easily access them and to know what they are doing. I also appreciate the organization website being a separate entity to look at instead of combining it into one place. Creating and viewing different study sessions is very simple, my only suggestion would be to have filters for time/place so that it's easier to find specific groups. Another small thing is to perhaps change the image link to a drag/drop feature instead so that it is easier to customize sessions/profiles. It would also be cool if sessions could be color-coded for organization. In general, a great website!_
+
+### Dani
+
+_I liked the logo and the overall color scheme of the site. I also really liked the convenience of having the “create new session” buttons at the top and bottom on the “list sessions” page. I wish that hitting submit on the “edit profile” page would reroute you back to the “view profile” page. Also when making a new session, it would be nice if the user could choose from a pool of images of frequent study spaces._
