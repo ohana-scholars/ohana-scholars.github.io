@@ -4,5 +4,8 @@ title: Community Feedback
 subtitle: We asked members of the UH-Manoa community to try out our application and give feedback. Here are their reviews!
 ---
 
-## Chris Pascual
-_Lorem ipsum dolor sit amet. Sit unde provident et dolor architecto ut quaerat illo non reprehenderit asperiores ex velit obcaecati aut iste sapiente id recusandae architecto. Et consequatur quis aut asperiores animi rem corrupti officiis qui laudantium natus id quia reprehenderit. Ut quas expedita ut nulla perferendis rem voluptas unde qui sunt dolor est alias animi ex asperiores voluptas. In iste asperiores sed praesentium quasi aut nulla architecto At distinctio vitae ut quos quae qui mollitia numquam._
+### Venus
+_The website has a clean and organized layout, which is easy to navigate. The website's color scheme is also charming and has a good balance of white space. The design is simple and clean, making it easy to navigate. The typography is straightforward, and using different font sizes helps create a clear information hierarchy. The content on the website is informative and well-written. The language is easy to understand, and the information is presented clearly and concisely. The website adjusts well to different screen sizes. All the links and buttons on the website are functional and lead to the appropriate pages. The website loads quickly, and the navigation is straightforward._
+
+### Albert
+_It was easy to use and was well organized. I liked it._
