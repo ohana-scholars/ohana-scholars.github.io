@@ -1,10 +1,8 @@
 ---
 layout: page
 title: User Guide
-subtitle: "Wowzers!"
+subtitle: The following guide will walk you through how to use the Ohana Scholars website.
 ---
-
-The following guide will walk you through how to use the Ohana Scholars website.
 
 ### Landing Page
 ![](assets/img/guidepics/landing.png)
@@ -59,9 +57,4 @@ After attending a session, you may want to rate your fellow students on how help
 #### Sign Out
 ![](assets/img/guidepics/signout.png)
 
-Once you sign out, you will be redirected to this page where you can log in or return to the landing page. 
-
-<hr />
-For additional assistance or questions contact us [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-jk, Contact us with this email: tungxn@hawaii.edu :)
+Once you sign out, you will be redirected to this page where you can log in or return to the landing page.

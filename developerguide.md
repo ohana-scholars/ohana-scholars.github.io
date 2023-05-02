@@ -1,4 +1,9 @@
-## Developer Guide
+---
+layout: page
+title: Developer Guide
+subtitle: Here's how you can download, install, run, and modify our application!
+---
+
 Install meteor from the [Meteor API Docs](https://docs.meteor.com/install.html) page.
 
 To copy, change, or modify our web application, first go to [the repository](https://github.com/ohana-scholars/ohana-scholars-application), clone ohana-scholars-application by clicking "Code" and choosing "Open with GitHub Desktop", name your new repository, and use the IDE of your choice.
