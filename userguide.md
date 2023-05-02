@@ -58,3 +58,22 @@ After attending a session, you may want to rate your fellow students on how help
 ![](assets/img/guidepics/signout.png)
 
 Once you sign out, you will be redirected to this page where you can log in or return to the landing page.
+
+# Use Case Ideas
+<ul>
+    <li>New user goes to landing page, creates new profile, gets home page, may edit their profile</li>
+    <li>Admin goes to landing page, logs in, gets home page, edits sites or subjects.</li>
+    <li>User goes to landing page, logs in, checks existing study sessions, requests new session if not applicable</li>
+    <li>User is notified of new sessions, joins or ignores.</li>
+    <li>User checks their reputation based on ratings</li>
+    <li>User checks their emails and can reply or write new ones</li>
+</ul>
+
+# Beyond the Basics
+
+After implementing the basic functionality, here are ideas for more advanced features:
+
+<ul>
+    <li>Email system for private messaging between students.</li>
+    <li>A rating system for students participation.</li>
+</ul>
