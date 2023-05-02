@@ -56,7 +56,7 @@ Clicking on courses in the navbar will take you to a page that lists all the cou
 #### Rate Student
 ![](assets/img/guidepics/ratestudent.png)
 
-After attending a session, you may want to rate your fellow students on how helful they were. This page allows you to rate a student from 1-10 and give a reason for your rating. 
+After attending a session, you may want to rate your fellow students on how helpful they were. This page allows you to rate a student from 1-10 and give a reason for your rating. 
 
 #### Sign Out
 ![](assets/img/guidepics/signout.png)
