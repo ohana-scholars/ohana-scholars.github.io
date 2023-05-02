@@ -61,10 +61,9 @@ Once you sign out, you will be redirected to this page where you can log in or r
 
 # Use Case Ideas
 <ul>
-    <li>New user goes to landing page, creates new profile, gets home page, may edit their profile</li>
-    <li>Admin goes to landing page, logs in, gets home page, edits sites or subjects.</li>
-    <li>User goes to landing page, logs in, checks existing study sessions, requests new session if not applicable</li>
-    <li>User is notified of new sessions, joins or ignores.</li>
+    <li>New user goes to landing page, creates new account and profile, gets home page, may edit their profile</li>
+    <li>Admin goes to landing page, logs in, gets home page, edits sites, and adds or edits the subjects and courses.</li>
+    <li>User goes to landing page, logs in, checks existing study sessions, creates new session if not applicable</li>
     <li>User checks their reputation based on ratings</li>
     <li>User checks their emails and can reply or write new ones</li>
 </ul>
