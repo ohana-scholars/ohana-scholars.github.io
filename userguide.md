@@ -26,7 +26,7 @@ Once you create an account, you'll be asked to create a Profile. Input your firs
 #### Home Page
 ![](assets/img/guidepics/homepage.png)
 
-Once you create your profile, you will be redirected to your personal home page. You'll notice that you now have access to add and view sessions. You can also view all the coureses listed in Ohana Scholars.
+Once you create your profile, you will be redirected to your personal home page. You'll notice that you now have access to add and view sessions. You can also view your profile as well as all the courses listed in Ohana Scholars.
 
 #### Profile Page
 ![](assets/img/guidepics/profilepage.png)
@@ -36,7 +36,7 @@ On the top right of the page (where your email is located), there is a dropdown 
 #### Edit Profile
 ![](assets/img/guidepics/editprofile.png)
 
-Following the profile page, below it will be a link that allows you to edit your profile. You'll be redirected to this page where you can change everything besides your username.
+Following the profile page, below it will be a link that allows you to edit your profile. You'll be redirected to this page where you can change the info listed on your profile.
 
 #### List Sessions
 ![](assets/img/guidepics/listsessions.png)
@@ -46,12 +46,22 @@ When you click list sessions on the navbar, you'll be redirected to the page tha
 #### Add Sessions
 ![](assets/img/guidepics/addsession.png)
 
-From the list sessions page, when you click create new session, you'll be redirected to a form page that will allow you to add a new session to the list sessions page.
+From the list sessions page, when you click create new session, you'll be redirected to a form page that will allow you to add a new session to the list sessions page. If you click on the filter button on the top right corner, you can filter the sessions by their subjects. 
 
 #### List Courses
 ![](assets/img/guidepics/listcourses.png)
 
 Clicking on courses in the navbar will take you to a page that lists all the courses in Ohana Scholars. For ease of use, we have provided a filter that filters based on subject.
+
+#### Rate Student
+![](assets/img/guidepics/ratestudent.png)
+
+After attending a session, you may want to rate your fellow students on how helful they were. This page allows you to rate a student from 1-10 and give a reason for your rating. 
+
+#### Sign Out
+![](assets/img/guidepics/signout.png)
+
+Once you sign out, you will be redirected to this page where you can log in or return to the landing page. 
 
 <hr />
 For additional assistance or questions contact us [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
