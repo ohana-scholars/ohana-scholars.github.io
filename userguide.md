@@ -4,9 +4,7 @@ title: User Guide
 subtitle: "Wowzers!"
 ---
 
-## Walkthrough
-
-The following will walkthrough through how to use the Ohana Scholars website.
+The following guide will walk you through how to use the Ohana Scholars website.
 
 ### Landing Page
 ![](assets/img/guidepics/landing.png)
