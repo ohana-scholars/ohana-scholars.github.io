@@ -21,3 +21,7 @@ _The overall aesthetic, design, and functionality of this website is very pleasa
 ### Dani
 
 _I liked the logo and the overall color scheme of the site. I also really liked the convenience of having the “create new session” buttons at the top and bottom on the “list sessions” page. I wish that hitting submit on the “edit profile” page would reroute you back to the “view profile” page. Also when making a new session, it would be nice if the user could choose from a pool of images of frequent study spaces._
+
+### Shedrick
+
+_I like the concept! and it seems like the website is running smooth. The only thing is when signing up, it doesn’t detect if it’s a real email address or not. Also you can’t upload a profile picture. I give this website a 4/5!_
